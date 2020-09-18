@@ -34,16 +34,15 @@ visit startpage.com -> Settings
     Open search result in a new window (n)  
 
 ### Text Editor aka gedit
-Preferences → "View" tab  
-* Display right margin at column (y): 120  
-Preferences → "Editor" tab  
-* Tab width: 4  
-* Insert spaces instead of tabs (y)  
-* Enable automatic indentation (n)  
-
-`sudo apt-get install gedit-plugins`  
-Preferences → "Plugins" tab  
-* Draw Spaces (y)  
+* Preferences → "View" tab  
+  * Display right margin at column (y): 120  
+* Preferences → "Editor" tab  
+  * Tab width: 4  
+  * Insert spaces instead of tabs (y)  
+  * Enable automatic indentation (n)  
+* `sudo apt-get install gedit-plugins`  
+* Preferences → "Plugins" tab  
+  * Draw Spaces (y)  
 
 ### Image Viewer
 Preferences -> "Image View" tab -> "Image Enhancements" section
