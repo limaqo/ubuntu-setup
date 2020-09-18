@@ -34,7 +34,7 @@
 * "Results Appearance" tab
   * Open search result in a new window (n)
 
-### Text Editor aka gedit
+### Text Editor (aka gedit)
 * Preferences → "View" tab
   * Display right margin at column (y): 120
 * Preferences → "Editor" tab
@@ -50,16 +50,11 @@
   * Smooth images when zoomed out (n)
   * Smooth images when zoomed in (n)
 
-### Image Viewer
-* Preferences → "Image View" tab → "Image Enhancements" section
-  * Smooth images when zoomed out (n)
-  * Smooth images when zoomed in (n)
-
 ### VLC
-* open Ubuntu Software
+* open "Ubuntu Software"
 * there are 2 VLC versions:
-  * Source: ubuntu-focal-universe and snapcraft.io
-* visit https://www.videolan.org/vlc/download-ubuntu.html
+  * Source: "ubuntu-focal-universe" and "snapcraft.io"
+  * visit https://www.videolan.org/vlc/download-ubuntu.html
   * VideoLAN prefers snap
 * install VLC version from snapcraft.io
 * go to Settings (Ubuntu)
@@ -69,7 +64,7 @@
 
 
 ### GNOME Tweaks
-* install "GNOME Tweaks" via Ubuntu Software
+* install "GNOME Tweaks" via "Ubuntu Software"
 * visit https://extensions.gnome.org/
   * install browser extension (GNOME Shell integration; Allow in private?)
 * search and install extensions
@@ -79,10 +74,10 @@
 * go to Settings (Ubuntu)
 * "Appearance" tab
   * Window colors: Dark
-* go to gedit preferences
+* go to "Text Editor (aka gedit)" preferences
 * "Font & Colors" tab
   * temporarily choose Color Scheme different than "Tango", e.g. "Oblivion"
-* open Tweaks
+* open "Tweaks"
 * "Appearance" tab → Themes section
   * Shell: Yaru-dark
 * "Top Bar" tab
@@ -93,7 +88,7 @@
   * Static Workspaces (y), Number of Workspaces: 1
 
 ### Dash to Panel
-* open settings via "Extensions" tab in "GNOME Tweaks"
+* open settings via "Extensions" tab in "Tweaks"
 * "Position" tab
   * Apply changes to all monitors (n)
   * open settings of "Show Applications button"
@@ -118,7 +113,7 @@
   * Animate launching new windows (n)
 
 ### Arc Menu
-*open settings via "Extensions" tab in "GNOME Tweaks"
+* open settings via "Extensions" tab in "GNOME Tweaks"
 * "General" tab
   * Display Arc Menu on all monitors (y)
   * Choose a Hotkey for Arc Menu: Left Super Key
