@@ -40,6 +40,7 @@ Preferences -> "Editor" tab
   * Tab width: 4  
   * Insert spaces instead of tabs (y)  
   * Enable automatic indentation (n)  
+
 `sudo apt-get install gedit-plugins`  
 Preferences -> "Plugins" tab  
 * Draw Spaces (y)  
