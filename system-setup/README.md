@@ -5,8 +5,8 @@
 `sudo apt upgrade`  
 
 ### Ubuntu Software
-open **Ubuntu Software**
-update **snapd** and **Core 18**
+open *Ubuntu Software*
+update *snapd* and *Core 18*
 
 ##### Settings
 "Displays" tab
