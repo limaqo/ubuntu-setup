@@ -1,10 +1,10 @@
 # system-setup
 
 ### system update
-`sudo apt update`
-`sudo apt upgrade`
+`sudo apt update`  
+`sudo apt upgrade`  
 
-#### Ubuntu Software
+### Ubuntu Software
 open **Ubuntu Software**
 update **snapd** and **Core 18**
 
@@ -14,13 +14,13 @@ update **snapd** and **Core 18**
     set Primary Display
     adapt Refresh Rates
 
-###### Grub
+### Grub
 install **Grub Customizer** via **Ubuntu Software**
 rename entries (via double click)
 order entries as desired
 save
 
-###### Firefox
+### Firefox
 Preferences -> "General" tab -> "Startup" section
     Restore previous session (y)
     Always check if Firefox is your default browser (y)
@@ -33,7 +33,7 @@ visit startpage.com -> Settings
 "Results Appearance" tab
     Open search result in a new window (n)
 
-###### Text Editor aka gedit
+### Text Editor aka gedit
 Preferences -> "View" tab  
     - Display right margin at column (y): 120  
 Preferences -> "Editor" tab  
