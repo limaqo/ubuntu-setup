@@ -39,6 +39,15 @@ Preferences -> "View" tab
 Preferences -> "Editor" tab
     Tab width: 4
     Insert spaces instead of tabs (y)
+    Enable automatic indentation (n)
+sudo apt-get install gedit-plugins
+Preferences -> "Plugins" tab
+    Draw Spaces (y)
+    
+- Image Viewer
+Preferences -> "Image View" tab -> "Image Enhancements" section
+    Smooth images when zoomed out (n)
+    Smooth images when zoomed in (n)
     
 - Image Viewer
 Preferences -> "Image View" tab -> "Image Enhancements" section
@@ -152,11 +161,7 @@ sudo apt install qdirstat
 
 - Materia theme (https://github.com/nana-4/materia-theme)
 materia-gtk-theme
-    
-    
-    
-    
-    
+
     
     
     
