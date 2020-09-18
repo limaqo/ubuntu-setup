@@ -145,8 +145,11 @@
 * install "Steam installer" via Ubuntu Software
 * run Steam and wait for installation
 
-### Documents aka Nautilus
+### Documents (aka Nautilus)
 * near Preferences → "Toggle view" to switch from tiles to list view
+* add "New Document" for right click menu
+  * `touch ~/Templates/"empty-document"`
+  * `touch ~/Templates/"empty-text-document"`
 
 ### Hexchat
 * install Hexchat via Ubuntu Software
