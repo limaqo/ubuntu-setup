@@ -113,7 +113,7 @@
   * Animate launching new windows (n)
 
 ### Arc Menu
-* open settings via "Extensions" tab in "GNOME Tweaks"
+* open settings via "Extensions" tab in "Tweaks"
 * "General" tab
   * Display Arc Menu on all monitors (y)
   * Choose a Hotkey for Arc Menu: Left Super Key
@@ -129,7 +129,7 @@
     * New Tab:      Ctrl+T
     * New Window:   Disabled
     * Close Tab:    Ctrl+W
-      Close Window: Disabled
+    * Close Window: Disabled
   * "Tabs" tab
     * Switch to Previous Tab: Ctrl+Left
     * Switch to Next Tab:     Ctrl+Right
