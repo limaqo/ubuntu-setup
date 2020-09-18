@@ -5,33 +5,33 @@
 `sudo apt upgrade`  
 
 ### Ubuntu Software
-open *Ubuntu Software*
-update *snapd* and *Core 18*
+open *Ubuntu Software*  
+update *snapd* and *Core 18*  
 
-##### Settings
-"Displays" tab
-    change desktop to match physical display setup
-    set Primary Display
-    adapt Refresh Rates
+### Settings
+"Displays" tab  
+    change desktop to match physical display setup  
+    set Primary Display  
+    adapt Refresh Rates  
 
 ### Grub
-install **Grub Customizer** via **Ubuntu Software**
-rename entries (via double click)
-order entries as desired
-save
+install *Grub Customizer* via *Ubuntu Software*  
+rename entries (via double click)  
+order entries as desired  
+save  
 
 ### Firefox
-Preferences -> "General" tab -> "Startup" section
-    Restore previous session (y)
-    Always check if Firefox is your default browser (y)
-Add-ons
-    install uBlock Origin (Allow in private?)
-visit www.startpage.com
-    install Startpage add-on (Allow in private?)
-    change Startpage.com to default search engine
-visit startpage.com -> Settings
-"Results Appearance" tab
-    Open search result in a new window (n)
+Preferences -> "General" tab -> "Startup" section  
+    Restore previous session (y)  
+    Always check if Firefox is your default browser (y)  
+Add-ons  
+    install uBlock Origin (Allow in private?)  
+visit www.startpage.com  
+    install Startpage add-on (Allow in private?)  
+    change Startpage.com to default search engine  
+visit startpage.com -> Settings  
+"Results Appearance" tab  
+    Open search result in a new window (n)  
 
 ### Text Editor aka gedit
 Preferences -> "View" tab  
@@ -43,17 +43,17 @@ Preferences -> "Editor" tab
 sudo apt-get install gedit-plugins  
 Preferences -> "Plugins" tab  
     - Draw Spaces (y)  
-    
+
 - Image Viewer
 Preferences -> "Image View" tab -> "Image Enhancements" section
     Smooth images when zoomed out (n)
     Smooth images when zoomed in (n)
-    
+
 - Image Viewer
 Preferences -> "Image View" tab -> "Image Enhancements" section
     Smooth images when zoomed out (n)
     Smooth images when zoomed in (n)
- 
+
 - VLC
 open Ubuntu Software
 there are 2 VLC versions:
@@ -90,7 +90,7 @@ open Tweaks
     Week Numbers (y)
 "Workspaces" tab
     Static Workspaces (y), Number of Workspaces: 1
-    
+
 - Dash to Panel
 open settings via "Extensions" tab in "GNOME Tweaks"
 "Position" tab
