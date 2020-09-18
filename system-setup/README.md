@@ -35,9 +35,9 @@ visit startpage.com -> Settings
 
 ### Text Editor aka gedit
 Preferences -> "View" tab  
-    * Display right margin at column (y): 120  
+  * Display right margin at column (y): 120  
 Preferences -> "Editor" tab  
-    * Tab width: 4  
+  * Tab width: 4  
   * Insert spaces instead of tabs (y)  
 * Enable automatic indentation (n)  
 sudo apt-get install gedit-plugins  
