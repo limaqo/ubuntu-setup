@@ -44,7 +44,7 @@ Preferences -> "Editor" tab
 Preferences -> "Plugins" tab  
 * Draw Spaces (y)  
 
-- Image Viewer
+### Image Viewer
 Preferences -> "Image View" tab -> "Image Enhancements" section
     Smooth images when zoomed out (n)
     Smooth images when zoomed in (n)
