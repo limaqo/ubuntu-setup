@@ -1,14 +1,14 @@
 # system-setup
 
-###### system update
+### system update
 `sudo apt update`
 `sudo apt upgrade`
 
-###### Ubuntu Software
+#### Ubuntu Software
 open **Ubuntu Software**
 update **snapd** and **Core 18**
 
-###### Settings
+##### Settings
 "Displays" tab
     change desktop to match physical display setup
     set Primary Display
