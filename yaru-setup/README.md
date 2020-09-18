@@ -48,10 +48,12 @@
   * cd build
   * ninja
 
-* `/usr/share/themes/Yaru-dark/gtk-3.0/gtk.gresource   // <- ~/ws/yaru/build/gtk/src/Yaru-dark-gtk-3.0.gresource`
-* `/usr/share/themes/Yaru-dark/gtk-3.0/gtk.gresource~  // org`
-* `/usr/share/themes/Yaru-dark/gtk-3.20/gtk.gresource  // <- ~/ws/yaru/build/gtk/src/Yaru-dark-gtk-3.20.gresource`
-* `/usr/share/themes/Yaru-dark/gtk-3.20/gtk.gresource~ // org`
-* `/usr/share/gnome-shell/theme/Yaru/gnome-shell-theme.gresource  // <- ~/ws/yaru/build/gnome-shell/src/gnome-shell-theme.gresource`
-* `/usr/share/gnome-shell/theme/Yaru/gnome-shell-theme.gresource~ // org`
-* `(/usr/share/Yaru/gnome-shell/* // maybe alternative?)`
+```
+/usr/share/themes/Yaru-dark/gtk-3.0/gtk.gresource   // <- ~/ws/yaru/build/gtk/src/Yaru-dark-gtk-3.0.gresource`
+/usr/share/themes/Yaru-dark/gtk-3.0/gtk.gresource~  // org
+/usr/share/themes/Yaru-dark/gtk-3.20/gtk.gresource  // <- ~/ws/yaru/build/gtk/src/Yaru-dark-gtk-3.20.gresource
+/usr/share/themes/Yaru-dark/gtk-3.20/gtk.gresource~ // org
+/usr/share/gnome-shell/theme/Yaru/gnome-shell-theme.gresource  // <- ~/ws/yaru/build/gnome-shell/src/gnome-shell-theme.gresource
+/usr/share/gnome-shell/theme/Yaru/gnome-shell-theme.gresource~ // org
+(/usr/share/Yaru/gnome-shell/* // maybe alternative?)
+```
