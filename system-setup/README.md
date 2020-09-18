@@ -117,45 +117,45 @@
   * Animate switching applications (n)
   * Animate launching new windows (n)
 
-- Arc Menu
-open settings via "Extensions" tab in "GNOME Tweaks"
-"General" tab
-    Display Arc Menu on all monitors (y)
-    Choose a Hotkey for Arc Menu: Left Super Key
-"Button Appearance" tab
-    Icon → Browse Icons → Distro Icons: Ubuntu Icon
-    Icon Size: 38
+### Arc Menu
+*open settings via "Extensions" tab in "GNOME Tweaks"
+* "General" tab
+  * Display Arc Menu on all monitors (y)
+  * Choose a Hotkey for Arc Menu: Left Super Key
+* "Button Appearance" tab
+  * Icon → Browse Icons → Distro Icons: Ubuntu Icon
+  * Icon Size: 38
 
 
 
 ### Terminal
-Preferences → Shortcuts
-    "File" tab
-        New Tab:      Ctrl+T
-        New Window:   Disabled
-        Close Tab:    Ctrl+W
-        Close Window: Disabled
-    "Tabs" tab
-        Switch to Previous Tab: Ctrl+Left
-        Switch to Next Tab:     Ctrl+Right
-Preferences → Profiles (Unnamed)
-    "Colors" tab
-        Use colors from system theme (n)
+* Preferences → Shortcuts
+  * "File" tab
+    * New Tab:      Ctrl+T
+    * New Window:   Disabled
+    * Close Tab:    Ctrl+W
+      Close Window: Disabled
+  * "Tabs" tab
+    * Switch to Previous Tab: Ctrl+Left
+    * Switch to Next Tab:     Ctrl+Right
+* Preferences → Profiles (Unnamed)
+  * "Colors" tab
+    * Use colors from system theme (n)
 
 ### Steam installer
-install "Steam installer" via Ubuntu Software
-run Steam and wait for installation
+* install "Steam installer" via Ubuntu Software
+* run Steam and wait for installation
 
 ### Documents aka Nautilus
-near Preferences → "Toggle view" to switch from tiles to list view
+* near Preferences → "Toggle view" to switch from tiles to list view
 
 ### Hexchat
-install Hexchat via Ubuntu Software
-(Hexchat takes ~25s to start up?!
-solution(?): https://askubuntu.com/questions/1184774/some-applications-on-ubuntu-19-10-very-slow-to-start)
+* install Hexchat via Ubuntu Software
+* (Hexchat takes ~25s to start up?!
+*solution(?): https://askubuntu.com/questions/1184774/some-applications-on-ubuntu-19-10-very-slow-to-start)
 
 ### Meld
-install "Meld" via Ubuntu Software
+* install "Meld" via Ubuntu Software
 
 ### QDirStat
-sudo apt install qdirstat
+* sudo apt install qdirstat
