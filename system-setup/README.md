@@ -147,7 +147,7 @@
 
 ### Documents (aka Nautilus)
 * near Preferences → "Toggle view" to switch from tiles to list view
-* add "New Document" for right click menu
+* add "New Document" option to right click menu
   * `touch ~/Templates/"empty-document"`
   * `touch ~/Templates/"empty-text-document"`
 
