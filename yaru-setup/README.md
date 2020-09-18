@@ -1,7 +1,7 @@
 # yaru-setup
 
 * `update-alternatives --config gdm3-theme.gresource`
-  * output `/usr/share/gnome-shell/theme/Yaru/gnome-shell-theme.gresource`
+  * output: `/usr/share/gnome-shell/theme/Yaru/gnome-shell-theme.gresource`
 
 cd ~/Documents
 mkdir gdm3Edit
