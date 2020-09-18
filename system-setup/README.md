@@ -1,12 +1,13 @@
 # system-setup
 
-### system update
+### generic system update
+* open "Terminal" (`Ctrl`+`Alt`+`T`)
 * `sudo apt update`
 * `sudo apt upgrade`
 
 ### Ubuntu Software
-* open *Ubuntu Software*
-* update *snapd* and *Core 18*
+* open "Ubuntu Software"
+* update "snapd" and "Core 18"
 
 ### Settings
 * "Displays" tab
@@ -15,7 +16,7 @@
   * adapt Refresh Rates
 
 ### Grub
-* install *Grub Customizer* via *Ubuntu Software*
+* install "Grub Customizer" via "Ubuntu Software"
 * rename entries (via double click)
 * order entries as desired
 * save
@@ -68,53 +69,53 @@
 
 
 ### GNOME Tweaks
-install "GNOME Tweaks" via Ubuntu Software
-visit https://extensions.gnome.org/
-    install browser extension (GNOME Shell integration; Allow in private?)
-search and install extensions
-    Dash to Panel (by jderose9)
-    Arc Menu (by LinxGem33)
-    User Themes (by fmuellner)
-go to Settings (Ubuntu)
-"Appearance" tab
-    Window colors: Dark
-go to gedit preferences
-"Font & Colors" tab
-    temporarily choose Color Scheme different than "Tango", e.g. "Oblivion"
-open Tweaks
-"Appearance" tab → Themes section
-    Shell: Yaru-dark
-"Top Bar" tab
-    Weekday (y)
-    Seconds (y)
-    Week Numbers (y)
-"Workspaces" tab
-    Static Workspaces (y), Number of Workspaces: 1
+* install "GNOME Tweaks" via Ubuntu Software
+* visit https://extensions.gnome.org/
+  * install browser extension (GNOME Shell integration; Allow in private?)
+* search and install extensions
+  * Dash to Panel (by jderose9)
+  * Arc Menu (by LinxGem33)
+  * User Themes (by fmuellner)
+* go to Settings (Ubuntu)
+* "Appearance" tab
+  * Window colors: Dark
+* go to gedit preferences
+* "Font & Colors" tab
+  * temporarily choose Color Scheme different than "Tango", e.g. "Oblivion"
+* open Tweaks
+* "Appearance" tab → Themes section
+  * Shell: Yaru-dark
+* "Top Bar" tab
+  * Weekday (y)
+  * Seconds (y)
+  * Week Numbers (y)
+* "Workspaces" tab
+  * Static Workspaces (y), Number of Workspaces: 1
 
 ### Dash to Panel
-open settings via "Extensions" tab in "GNOME Tweaks"
-"Position" tab
-    Apply changes to all monitors (n)
-    open settings of "Show Applications button"
-        Animate Show Applications (n)
-    all monitors:
-        Show Applications button (n; button appears brighter when disabled)
-    Monitor 2 & 3:
-        Date menu (n)
-        System menu (n)
-    all monitors:
-        Desktop button (n)
-    Primary monitor:
-        switch positions of "Date menu" and "System menu"
-"Behavior" tab
-    Show favorite applications on secondary panels (n)
-    Isolate monitors (y)
-    Ungroup applications (y)
-    open settings of "Ungroup applications"
-        Display running indicators on unfocused applications (n)
-"Fine-Tune" tab
-    Animate switching applications (n)
-    Animate launching new windows (n)
+* open settings via "Extensions" tab in "GNOME Tweaks"
+* "Position" tab
+  * Apply changes to all monitors (n)
+  * open settings of "Show Applications button"
+    * Animate Show Applications (n)
+  * all monitors:
+    * Show Applications button (n; button appears brighter when disabled)
+  * Monitor 2 & 3:
+    * Date menu (n)
+    * System menu (n)
+  * all monitors:
+    * Desktop button (n)
+  * Primary monitor:
+    * switch positions of "Date menu" and "System menu"
+* "Behavior" tab
+  * Show favorite applications on secondary panels (n)
+  * Isolate monitors (y)
+  * Ungroup applications (y)
+  * open settings of "Ungroup applications"
+    * Display running indicators on unfocused applications (n)
+* "Fine-Tune" tab
+  * Animate switching applications (n)
+  * Animate launching new windows (n)
 
 - Arc Menu
 open settings via "Extensions" tab in "GNOME Tweaks"
