@@ -136,6 +136,10 @@
 * Preferences → Profiles (Unnamed)
   * "Colors" tab
     * Use colors from system theme (n)
+* `gedit ~/.inputrc` (probably empty document)
+  * add 1st line: `"\e[A":history-search-backward`
+  * add 2nd line: `"\e[B":history-search-forward`
+* restart console to activate changes
 
 ### Steam installer
 * install "Steam installer" via Ubuntu Software
