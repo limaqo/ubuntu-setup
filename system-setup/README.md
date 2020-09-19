@@ -161,3 +161,15 @@
 
 ### QDirStat
 * sudo apt install qdirstat
+
+### Timeshift
+* source code with README.md: https://github.com/teejee2008/timeshift
+* install Timeshift via Ubuntu Software
+* open Timeshift and complete the setup:
+  * RSYNC → partition → snapshot levels → home folders(?)
+* create a snapshot
+
+* 139,7 available -> xxx ?
+
+### GParted
+* install GParted via Ubuntu Software
