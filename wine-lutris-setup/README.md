@@ -63,4 +63,52 @@ https://lutris.net/downloads/
 * Saves have no Screenshot
 * Microsoft .NET framework is always tried to be installed at startup
 * cast cursor lags behind when quick mouse movements
+* cast cursor can not go to the very right edge of the screen
+
+### Wine setup
+* https://wiki.winehq.org/Winecfg
+* launch "Wine configuration": `winecfg`
+* "Graphics" tab → Screen resolution: 144 dpi → Apply
+* relaunch "Wine configuration"
+
+Wine Gecko Installer -> Install
+
+######
+nice to know:
+https://wiki.winehq.org/List_of/_Commands
+launch "Registry Editor": `wine regedit`
+launch "Notepad": `wine notepad`
+
+install app: `wine /media/cdrom/setup.exe`
+
+winecfg
+wineconsole (cmd.exe)
+wine uninstaller
+
+sample program: 7-Zip?
+https://www.7-zip.org/
+
+~/.wine is called a "Wineprefix"
+~/.wine is the default wineprefix
+
+`export WINEPREFIX=~/.wine-new`
+`wine winecfg`
+creates a new new wineprefix, better:
+`WINEARCH=win32 WINEPREFIX=path_to_wineprefix winecfg`
+all wineprefixes are independent from each other
+
+create alias `wineswap`
+prints current wineprefix and asks if user wants to swap [Y/n]
+
+### Wine ToDo Edit
+https://wiki.winehq.org/Wine_User's_Guide#Using_Winecfg
+* add link to https://wiki.winehq.org/Winecfg
+* sync Wine User's Guide at least a little
+https://wiki.winehq.org/Winecfg
+* add info that "The Applications, Libraries, and Graphics tabs are linked together" from the User Guide
+* sync Winecfg at least a little
+--> I need to become member of the group "Trustworthy"
+lots of Authors (16): who is "actually" working on it?
+
+
 

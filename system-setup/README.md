@@ -25,6 +25,18 @@
 * Preferences → "General" tab → "Startup" section
   * Restore previous session (y)
   * Always check if Firefox is your default browser (y)
+* about:config
+  * smooth scrolling:
+    * mousewheel.min_line_scroll_amount: 50
+    * general.smoothScroll.mouseWheel.durationMaxMS: 500
+    * general.smoothScroll.mouseWheel.durationMinMS: 300
+  * tearing fix:
+    * layers.acceleration.force-enabled: true
+    * (maybe: layers.force-active: true)
+    * (maybe: gfx.xrender.enabled: true)
+* Customize (right under Preferences)
+  * Title Bar (n)
+  * Toolbars (at the bottom left of the screen) → Bookmarks Toolbar (y)
 * Add-ons
   * install uBlock Origin (Allow in private?)
 * visit www.startpage.com
