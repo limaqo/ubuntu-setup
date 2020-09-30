@@ -1,7 +1,5 @@
 # system-setup
 
-copy
-
 y### generic system update
 * open "Konsole" (`Ctrl`+`Alt`+`T`)
 * `sudo apt update`

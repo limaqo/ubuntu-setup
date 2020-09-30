@@ -1,0 +1,2 @@
+increasing sound makes "Knack" sounds
+and has flickering in VLC video playback

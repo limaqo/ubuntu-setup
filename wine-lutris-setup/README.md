@@ -52,19 +52,6 @@ https://lutris.net/downloads/
 * `sudo apt update`
 * `sudo apt install lutris`
 
-#### Steam
-* Settings → "In-Game" tab
-  * In-game FPS counter: Top-right
-* Settings → "Steam Play" tab
-  * Enable Steam Play for all other titles (y)
-  * Run other titles with: Proton 5.0-9 ("Steam Linux Runtime - Soldier" did not work back then)
-
--> problems with Divinity (https://www.reddit.com/r/DivinityOriginalSin/comments/alrg6u/divinity_original_sin_2_de_on_linux_with/):
-* Saves have no Screenshot
-* Microsoft .NET framework is always tried to be installed at startup
-* cast cursor lags behind when quick mouse movements
-* cast cursor can not go to the very right edge of the screen
-
 ### Wine setup
 * https://wiki.winehq.org/Winecfg
 * launch "Wine configuration": `winecfg`
